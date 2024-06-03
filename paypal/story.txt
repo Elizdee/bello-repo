@@ -1,0 +1,6 @@
+this is a good one
+line 2
+line 3 >>story.txt
+echo line 3 >> story.txt
+echo line 3
+line 3
